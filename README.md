@@ -1,4 +1,4 @@
-# devops_project1
+# main
 hi all how are you 
 to day w all should practice the all git commands 
 also we should practice git hub 
